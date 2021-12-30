@@ -1,0 +1,17 @@
+torch
+ipython
+scikit-learn
+pandas
+pytest
+black
+black[jupyter]
+pytorch-lightning
+matplotlib
+librosa
+numpy==1.18
+SpecAugment
+torchvision
+torch-tb-profiler
+audiomentations
+pydub
+click

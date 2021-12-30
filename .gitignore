@@ -1,0 +1,10 @@
+.data
+.data/*
+*.pyc
+__pycache__
+processed_data
+processed_data/*
+scripts/best_model
+scripts/best_model/*
+scripts/tb_logs
+scripts/tb_logs/*
